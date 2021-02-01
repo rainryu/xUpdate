@@ -1,0 +1,51 @@
+﻿{
+  "SetupDemoConfig": {
+    "FileInfoList": [
+      { "FilePath": "UpdateDemon.exe" },
+      { "FilePath": "UpdateDemon.exe.config" },
+      { "FilePath": "CopyRun.exe" }
+    ],
+    "LocalSetupDir": ""
+  },
+  "UpdateDemoConfig": {
+    "DeskShortcut": {
+      "ShortcutCmd": "cef.demo.exe",
+      "ShortcutIcon": "AppIcon.ico",
+      "ShortcutName": "单病种质控上报系统"
+    },
+    "FileInfoList": [
+      { "FilePath": "UpdateDemon.exe" },
+      { "FilePath": "UpdateDemon.exe.config" },
+      { "FilePath": "CopyRun.exe" },
+      { "FilePath": "cef.demo.exe" },
+      { "FilePath": "cef.demo.exe.config" },
+      { "FilePath": "AppIcon.ico" },
+      { "FilePath": "Xilium.CefGlue.dll" },
+      { "FilePath": "Xilium.CefGlue.Form.dll" },
+      { "FilePath": "CefRuntime\/Xilium.CefGlue.dll" },
+      { "FilePath": "CefRuntime\/Xilium.CefGlue.Form.dll" },
+      { "FilePath": "CefRuntime\/v8_context_snapshot.bin" },
+      { "FilePath": "CefRuntime\/snapshot_blob.bin" },
+      { "FilePath": "CefRuntime\/README.txt" },
+      { "FilePath": "CefRuntime\/pdfium.dll" },
+      { "FilePath": "CefRuntime\/natives_blob.bin" },
+      { "FilePath": "CefRuntime\/libGLESv2.dll" },
+      { "FilePath": "CefRuntime\/libEGL.dll" },
+      { "FilePath": "CefRuntime\/libcef.dll" },
+      { "FilePath": "CefRuntime\/icudtl.dat" },
+      { "FilePath": "CefRuntime\/devtools_resources.pak" },
+      { "FilePath": "CefRuntime\/dbghelp.dll" },
+      { "FilePath": "CefRuntime\/d3dcompiler_47.dll" },
+      { "FilePath": "CefRuntime\/chrome_elf.dll" },
+      { "FilePath": "CefRuntime\/CefGlue.Render.exe" },
+      { "FilePath": "CefRuntime\/cef_extensions.pak" },
+      { "FilePath": "CefRuntime\/cef_200_percent.pak" },
+      { "FilePath": "CefRuntime\/cef_100_percent.pak" },
+      { "FilePath": "CefRuntime\/cef.pak" },
+      { "FilePath": "CefRuntime\/locales\/zh-CN.pak" },
+      { "FilePath": "CefRuntime\/locales\/en-US.pak" }
+    ],
+    "KillProcessList": [ "cef.demo" ],
+    "UpdateVersion": "111"
+  }
+}
